@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">MusicServiceApp</string>
+    <string name="Proceed">Proceed</string>
+    <string name="w_e_l_c_o_m_e">W E L C O M E</string>
+    <string name="music_player">Music Player</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="back">Back</string>
+    <string name="myne_s_music_player_feel_the_beat">Myne\'s Music Player, feel the beat!</string>
 </resources>
